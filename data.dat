@@ -1,0 +1,299 @@
+alias : Has no manual entry
+apropos : Was not written by Stallman
+apt-get : Was not written by Stallman
+aptitude : Is not a valid command
+aspell : Is not a valid command
+awk : Was not written by Stallman
+basename : Was not written by Stallman
+bash : Was not written by Stallman
+bc : Is not a valid command
+bg : Has no manual entry
+bind : Was not written by Stallman
+break : Was not written by Stallman
+builtin : Has no manual entry
+bzip2 : Was not written by Stallman
+cal : Was not written by Stallman
+case : Has no manual entry
+    AUTHOR
+    Written by Torbjorn Granlund and Richard M. Stallman.
+    
+cat : Was written by Stallman!
+cd : Has no manual entry
+cfdisk : Was not written by Stallman
+chattr : Was not written by Stallman
+chgrp : Was not written by Stallman
+chmod : Was not written by Stallman
+chown : Was not written by Stallman
+chroot : Was not written by Stallman
+chkconfig : Is not a valid command
+cksum : Was not written by Stallman
+clear : Was not written by Stallman
+cmp : Was not written by Stallman
+    AUTHOR
+    Written by Richard M. Stallman and David MacKenzie.
+    
+comm : Was written by Stallman!
+command : Has no manual entry
+continue : Has no manual entry
+cp : Was not written by Stallman
+cron : Was not written by Stallman
+crontab : Was not written by Stallman
+csplit : Was not written by Stallman
+curl : Was not written by Stallman
+cut : Was not written by Stallman
+date : Was not written by Stallman
+dc : Is not a valid command
+dd : Was not written by Stallman
+ddrescue : Is not a valid command
+declare : Was not written by Stallman
+df : Was not written by Stallman
+    AUTHOR
+    Written by Paul Eggert, Mike Haertel, David Hayes, Richard Stallman, and Len Tower.
+    
+diff : Was written by Stallman!
+diff3 : Was not written by Stallman
+dig : Was not written by Stallman
+    AUTHOR
+    Written by Richard M. Stallman and David MacKenzie.
+    
+dir : Was written by Stallman!
+dircolors : Was not written by Stallman
+dirname : Was not written by Stallman
+dirs : Has no manual entry
+dmesg : Was not written by Stallman
+du : Was not written by Stallman
+echo : Was not written by Stallman
+egrep : Was not written by Stallman
+eject : Was not written by Stallman
+enable : Has no manual entry
+env : Was not written by Stallman
+ethtool : Is not a valid command
+eval : Has no manual entry
+exec : Was not written by Stallman
+exit : Was not written by Stallman
+expect : Is not a valid command
+expand : Was not written by Stallman
+export : Has no manual entry
+expr : Was not written by Stallman
+false : Was not written by Stallman
+fdformat : Was not written by Stallman
+fdisk : Was not written by Stallman
+fg : Has no manual entry
+fgrep : Was not written by Stallman
+file : Was not written by Stallman
+find : Was not written by Stallman
+fmt : Was not written by Stallman
+fold : Was not written by Stallman
+for : Has no manual entry
+format : Is not a valid command
+free : Was not written by Stallman
+fsck : Was not written by Stallman
+ftp : Is not a valid command
+function : Has no manual entry
+fuser : Was not written by Stallman
+gawk : Was not written by Stallman
+getopts : Has no manual entry
+grep : Was not written by Stallman
+groupadd : Was not written by Stallman
+groupdel : Was not written by Stallman
+groupmod : Was not written by Stallman
+groups : Was not written by Stallman
+gzip : Was not written by Stallman
+hash : Was not written by Stallman
+head : Was not written by Stallman
+help : Has no manual entry
+history : Was not written by Stallman
+hostname : Was not written by Stallman
+htop : Was not written by Stallman
+iconv : Was not written by Stallman
+id : Was not written by Stallman
+if : Has no manual entry
+ifconfig : Was not written by Stallman
+ifdown : Was not written by Stallman
+ifup : Was not written by Stallman
+import : Is not a valid command
+install : Was not written by Stallman
+iostat : Is not a valid command
+ip : Was not written by Stallman
+jobs : Has no manual entry
+join : Was not written by Stallman
+kill : Was not written by Stallman
+killall : Was not written by Stallman
+less : Was not written by Stallman
+let : Has no manual entry
+link : Was not written by Stallman
+ln : Was not written by Stallman
+local : Has no manual entry
+locate : Was not written by Stallman
+logname : Was not written by Stallman
+logout : Was not written by Stallman
+look : Was not written by Stallman
+lpc : Is not a valid command
+lpr : Is not a valid command
+lprint : Is not a valid command
+lprintd : Is not a valid command
+lprintq : Is not a valid command
+lprm : Is not a valid command
+lsattr : Was not written by Stallman
+lsblk : Was not written by Stallman
+    AUTHOR
+    Written by Richard M. Stallman and David MacKenzie.
+    
+ls : Was written by Stallman!
+lsof : Was not written by Stallman
+     issue the commands to recompile them. The manual describes the GNU implementation of make, which was written by Richard
+    Stallman and Roland McGrath, and is currently maintained by Paul Smith. Our examples show C programs, since they are most
+     common, but you can use make with any programming language whose compiler can be run with a shell command. In fact, make
+make : Was written by Stallman!
+man : Was not written by Stallman
+mkdir : Was not written by Stallman
+mkfifo : Was not written by Stallman
+mkfile : Is not a valid command
+mkisofs : Is not a valid command
+mknod : Was not written by Stallman
+mktemp : Was not written by Stallman
+more : Was not written by Stallman
+most : Is not a valid command
+mount : Was not written by Stallman
+mtools : Is not a valid command
+mtr : Is not a valid command
+mv : Was not written by Stallman
+mmv : Is not a valid command
+nc : Was not written by Stallman
+netstat : Was not written by Stallman
+nice : Was not written by Stallman
+nl : Was not written by Stallman
+nohup : Was not written by Stallman
+notify-se : Is not a valid command
+nslookup : Was not written by Stallman
+open : Was not written by Stallman
+op : Is not a valid command
+passwd : Was not written by Stallman
+paste : Was not written by Stallman
+pathchk : Was not written by Stallman
+ping : Was not written by Stallman
+pgrep : Was not written by Stallman
+pkill : Was not written by Stallman
+popd : Has no manual entry
+pr : Was not written by Stallman
+printcap : Is not a valid command
+printenv : Was not written by Stallman
+printf : Was not written by Stallman
+ps : Was not written by Stallman
+pushd : Has no manual entry
+pv : Is not a valid command
+pwd : Was not written by Stallman
+quota : Has no manual entry
+quotachec : Is not a valid command
+ram : Is not a valid command
+rar : Is not a valid command
+rcp : Was not written by Stallman
+read : Was not written by Stallman
+readarray : Has no manual entry
+readonly : Has no manual entry
+reboot : Was not written by Stallman
+rename : Was not written by Stallman
+renice : Was not written by Stallman
+remsync : Is not a valid command
+return : Has no manual entry
+rev : Was not written by Stallman
+    AUTHOR
+    Written by Paul Rubin, David MacKenzie, Richard M. Stallman, and Jim Meyering.
+    
+rm : Was written by Stallman!
+rmdir : Was not written by Stallman
+rsync : Was not written by Stallman
+screen : Is not a valid command
+scp : Was not written by Stallman
+sdiff : Was not written by Stallman
+sed : Was not written by Stallman
+select : Was not written by Stallman
+seq : Was not written by Stallman
+set : Was not written by Stallman
+sftp : Was not written by Stallman
+shift : Has no manual entry
+shopt : Has no manual entry
+shutdown : Was not written by Stallman
+sleep : Was not written by Stallman
+slocate : Is not a valid command
+sort : Was not written by Stallman
+source : Has no manual entry
+    AUTHOR
+    Written by Torbjorn Granlund and Richard M. Stallman.
+    
+split : Was written by Stallman!
+ss : Was not written by Stallman
+ssh : Was not written by Stallman
+stat : Was not written by Stallman
+strace : Was not written by Stallman
+su : Was not written by Stallman
+sudo : Was not written by Stallman
+sum : Was not written by Stallman
+suspend : Has no manual entry
+sync : Was not written by Stallman
+tail : Was not written by Stallman
+tar : Was not written by Stallman
+    AUTHOR
+    Written by Mike Parker, Richard M. Stallman, and David MacKenzie.
+    
+tee : Was written by Stallman!
+test : Was not written by Stallman
+time : Was not written by Stallman
+timeout : Was not written by Stallman
+times : Was not written by Stallman
+touch : Was not written by Stallman
+top : Was not written by Stallman
+tput : Was not written by Stallman
+tracerout : Is not a valid command
+trap : Has no manual entry
+tr : Was not written by Stallman
+true : Was not written by Stallman
+tsort : Was not written by Stallman
+tty : Was not written by Stallman
+type : Has no manual entry
+ulimit : Was not written by Stallman
+umask : Was not written by Stallman
+umount : Was not written by Stallman
+unalias : Has no manual entry
+uname : Was not written by Stallman
+unexpand : Was not written by Stallman
+    AUTHOR
+    Written by Richard M. Stallman and David MacKenzie.
+    
+uniq : Was written by Stallman!
+units : Is not a valid command
+unrar : Is not a valid command
+unset : Has no manual entry
+unshar : Is not a valid command
+until : Has no manual entry
+uptime : Was not written by Stallman
+useradd : Was not written by Stallman
+userdel : Was not written by Stallman
+usermod : Was not written by Stallman
+users : Was not written by Stallman
+uuencode : Is not a valid command
+uudecode : Is not a valid command
+v : Is not a valid command
+    AUTHOR
+    Written by Richard M. Stallman and David MacKenzie.
+    
+vdir : Was written by Stallman!
+vi : Was not written by Stallman
+vmstat : Was not written by Stallman
+wait : Was not written by Stallman
+watch : Was not written by Stallman
+wc : Was not written by Stallman
+whereis : Was not written by Stallman
+which : Was not written by Stallman
+while : Has no manual entry
+who : Was not written by Stallman
+whoami : Was not written by Stallman
+wget : Was not written by Stallman
+write : Was not written by Stallman
+xargs : Was not written by Stallman
+xdg-open : Is not a valid command
+xz : Was not written by Stallman
+yes : Was not written by Stallman
+zip : Was not written by Stallman
+
+Commands written by Stallman: cat comm diff dir ls make rm split tee uniq vdir
